@@ -1,0 +1,55 @@
+.bg{
+    
+    background-image: url('../images/interior-of-class-room-vector.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.tab{
+    background-color: aqua;
+    /* border: 2px solid red; */
+    
+}
+#fg{
+    font-weight: bold;
+}
+th{
+    text-align: center;
+}
+table{
+    width: 600px;
+    margin-top: 35px;
+}
+.one{
+    width: 600px;
+    margin-top: 130px;
+}
+.head{
+    color: white;
+}
+#add{
+    font-size: 25px;
+    color:yellow;
+}
+#boy
+    
+ {
+    height: 500px;
+    position: relative;
+    left: 550px;
+    bottom: 180px;
+}
+  
+.reg{
+    
+    margin-left: 50px;
+}
+.form-control{
+    width: 600px;
+}
+#boy2{
+    height: 500px;
+    position: relative;
+    left: 600px;
+    bottom: 240px;
+}
